@@ -29,7 +29,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
-        <version_spring>5.1.1.RELEASE</version_spring>
+        <version_spring>5.2.3.RELEASE</version_spring>
     </properties>
     <!-- 2 **********为pom定义一些常量，在pom中的其它地方可以直接引用********** 2 -->
 
