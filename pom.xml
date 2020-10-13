@@ -40,7 +40,7 @@
             <!--通过坐标指定依赖包-->
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
-            <version>4.12</version>
+            <version>4.13.1</version>
             <!--可选项：依赖范围。有六个可选值：常用compile/provided/test/runtime等-->
             <scope>test</scope>
         </dependency>
